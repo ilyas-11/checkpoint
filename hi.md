@@ -3,12 +3,14 @@
 5% onlyf  
 5% only1  
 5% onlyb  
+
 10% printif  
 10% printifnot  
 10% countcharacter  
 10% checknumber  
 10% retainfirsthalf  
 10% countalpha  
+
 20% firstword  
 20% hashcode  
 20% fishandchips  
@@ -16,7 +18,8 @@
 20% digitlen  
 20% gcd  
 20% lastword  
-20% searchreplace  
+20% searchreplace 
+
 35% itoa  
 35% printrevcomb  
 35% expandstr  
@@ -28,6 +31,7 @@
 35% printmemory  
 35% weareunique  
 35% zipstring  
+
 50% concatalternate  
 50% reversestrcap  
 50% saveandmiss  
@@ -41,17 +45,22 @@
 50% chunk  
 50% concatslice  
 50% slice  
+
 65% notdecimal  
 65% fifthandskip  
 65% revconcatalternate  
+
 75% findpairs  
 75% revwstr  
 75% rostring  
+
 85% piglatin  
 85% options  
 85% itoabase  
 85% romannumbers  
+
 95% rpncalc  
 95% brackets  
+
 100% brainfuck  
 100% grouping  
